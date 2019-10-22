@@ -1,0 +1,18 @@
+.dashboard-list-box h4{
+	padding: 10px !important;
+}
+
+table.basic-table tr{
+	font-size:18px;
+	color: #313131;
+}
+
+table.basic-table th{
+	font-size:18px;
+	background-color: #005294 ;
+}
+
+.dashboard-stat-content h4{
+	letter-spacing: -3px;
+	font-size: 32px;
+}

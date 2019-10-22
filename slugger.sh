@@ -1,0 +1,2 @@
+php artisan crud:generate Proprietaire --fields="nom:string,prenom:string,naisssance:date,nationalite:integer,adresse:string,num_piece_id:string,nature_piece_id:string,tel:string,naissance:string,slug:string"
+php artisan crud:generate Nationalite --fields="libelle:string,pays:string,indicatif:integer,iso:string,slug:string" 

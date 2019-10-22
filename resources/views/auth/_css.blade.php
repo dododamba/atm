@@ -1,0 +1,10 @@
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/vendor/bootstrap/css/bootstrap.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/fonts/font-awesome-4.7.0/css/font-awesome.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/fonts/iconic/css/material-design-iconic-font.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/vendor/animate/animate.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/vendor/css-hamburgers/hamburgers.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/vendor/animsition/css/animsition.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/vendor/select2/select2.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/vendor/daterangepicker/daterangepicker.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/css/util.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{url('cdn/css/main.css')}}">
